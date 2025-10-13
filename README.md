@@ -51,7 +51,22 @@ The system integrates **CivicSense AI Model** (custom-trained using Roboflow / T
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/Glanil21/Kartavya.git
 cd Kartavya
+```
+
+### Run the Project
+
+Once everything is set up, simply double-click the batch file to launch the project:
+
+Test_Kartavya.bat
+
+
+or run it via terminal:
+```bash
+./Test_Kartavya.bat
+```
+
+This will automatically start both the frontend and backend servers (if configured) and open the application in your default browser.
