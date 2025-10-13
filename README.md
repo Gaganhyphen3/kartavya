@@ -54,4 +54,4 @@ The system integrates **CivicSense AI Model** (custom-trained using Roboflow / T
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Glanil21/Kartavya.git
-cd civic-issue-reporting
+cd Kartavya
