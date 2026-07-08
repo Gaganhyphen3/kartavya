@@ -1,0 +1,10 @@
+{
+  "buildCommand": "cd web-kartavya && npm install && npm run build",
+  "outputDirectory": "web-kartavya/build",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
